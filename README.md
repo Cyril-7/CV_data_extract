@@ -36,9 +36,6 @@ This is a Flask-based web application designed to process resumes or CVs (Curric
 - `uploads/`: Directory to store uploaded files and generated output files.
 - `README.md`: Documentation file providing information about the application.
 
-## Credits
-- This application was created by [Your Name] for educational purposes.
-- It utilizes various open-source libraries such as Flask, PyPDF2, and pandas for file processing and web development.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
